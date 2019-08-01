@@ -1,0 +1,755 @@
+
+d000 = ['XXXXXXXXXXXXXXXXXXXXX']
+d001 = ['XXXXXXXXXXXXXXXXXXXXX']
+d002 = ['XXXXXX         XXXXXX']
+d003 = ['XXXX             XXXX']
+d004 = ['XX                 XX']
+d005 = ['X                   X']
+d006 = ['X        XXX        X']
+d007 = ['X       XXXXX       X']
+d008 = ['X       XXXXX       X']
+d009 = ['X       X   X       X']
+d010 = ['X       X   X       X']
+d011 = ['X       XXXXX       X']
+d012 = ['X       XXXXX       X']
+d013 = ['X        XXX        X']
+d014 = ['X                   X']
+d015 = ['XX                 XX']
+d016 = ['XXXX             XXXX']
+d017 = ['XXXXXX         XXXXXX']
+d018 = ['XXXXXXXXXXXXXXXXXXXXX']
+d019 = ['XXXXXXXXXXXXXXXXXXXXX']
+
+d100 = ['XXXXXXXXXXXXXX']
+d101 = ['XXXXXXXXXXXXXX']
+d102 = ['XXX       XXXX']
+d103 = ['XX        XXXX']
+d104 = ['X         XXXX']
+d105 = ['X         XXXX']
+d106 = ['XXXX      XXXX']
+d107 = ['XXXX      XXXX']
+d108 = ['XXXX      XXXX']
+d109 = ['XXXX      XXXX']
+d110 = ['XXXX      XXXX']
+d111 = ['XXXX      XXXX']
+d112 = ['XXXX      XXXX']
+d113 = ['XXXX      XXXX']
+d114 = ['X            X']
+d115 = ['X            X']
+d116 = ['X            X']
+d117 = ['X            X']
+d118 = ['XXXXXXXXXXXXXX']
+d119 = ['XXXXXXXXXXXXXX']
+
+d200 = ['XXXXXXXXXXXXXXXXXXXXXX']
+d201 = ['XXXXXXXXXXXXXXXXXXXXXX']
+d202 = ['XX               XXXXX']
+d203 = ['X                  XXX']
+d204 = ['X                   XX']
+d205 = ['X       XXXXX       XX']
+d206 = ['XXXXXXXXXXXXX       XX']
+d207 = ['XXXXXXXXXXXXX       XX']
+d208 = ['XXXXXXXXXX         XXX']
+d209 = ['XXXXX             XXXX']
+d210 = ['XXX             XXXXXX']
+d211 = ['XX           XXXXXXXXX']
+d212 = ['X       XXXXXXXXXXXXXX']
+d213 = ['X       XXXXXXXXXXXXXX']
+d214 = ['X       XXXXXXX      X']
+d215 = ['X                    X']
+d216 = ['X                    X']
+d217 = ['X                    X']
+d218 = ['XXXXXXXXXXXXXXXXXXXXXX']
+d219 = ['XXXXXXXXXXXXXXXXXXXXXX']
+
+d300 = ['XXXXXXXXXXXXXXXXXXXXX']
+d301 = ['XXXXXXXXXXXXXXXXXXXXX']
+d302 = ['XX               XXXX']
+d303 = ['X                  XX']
+d304 = ['X                   X']
+d305 = ['X       XXXXX       X']
+d306 = ['XXXXXXXXXXXXX       X']
+d307 = ['XXXXXXXXXXXXX       X']
+d308 = ['XXXXX              XX']
+d309 = ['XXXXX             XXX']
+d310 = ['XXXXX              XX']
+d311 = ['XXXXXXXXXXXXX       X']
+d312 = ['XXXXXXXXXXXXX       X']
+d313 = ['XXXXXXXXXXXXX       X']
+d314 = ['X       XXXXX       X']
+d315 = ['X                   X']
+d316 = ['X                  XX']
+d317 = ['XX               XXXX']
+d318 = ['XXXXXXXXXXXXXXXXXXXXX']
+d319 = ['XXXXXXXXXXXXXXXXXXXXX']
+
+d400 = ['XXXXXXXXXXXXXXXXXXXX']
+d401 = ['XXXXXXXXXXXXXXXXXXXX']
+d402 = ['XXXXXXXX         XXX']
+d403 = ['XXXXXXX          XXX']
+d404 = ['XXXXXX           XXX']
+d405 = ['XXXXX            XXX']
+d406 = ['XXXX      X      XXX']
+d407 = ['XXX      XX      XXX']
+d408 = ['XX      XXX      XXX']
+d409 = ['X                  X']
+d410 = ['X                  X']
+d411 = ['X                  X']
+d412 = ['XXXXXXXXXXX      XXX']
+d413 = ['XXXXXXXXXXX      XXX']
+d414 = ['XXXXXXXXXXX      XXX']
+d415 = ['XXXXXXXXX          X']
+d416 = ['XXXXXXXXX          X']
+d417 = ['XXXXXXXXX          X']
+d418 = ['XXXXXXXXXXXXXXXXXXXX']
+d419 = ['XXXXXXXXXXXXXXXXXXXX']
+
+d500 = ['XXXXXXXXXXXXXXXXXXXXX']
+d501 = ['XXXXXXXXXXXXXXXXXXXXX']
+d502 = ['X                  XX']
+d503 = ['X                  XX']
+d504 = ['X                  XX']
+d505 = ['X                  XX']
+d506 = ['X       XXXXXXXXXXXXX']
+d507 = ['X       XXXXXXXXXXXXX']
+d508 = ['X                XXXX']
+d509 = ['X                 XXX']
+d510 = ['X                  XX']
+d511 = ['XXXXXXXXXXXXX       X']
+d512 = ['XXXXXXXXXXXXX       X']
+d513 = ['X       XXXXX       X']
+d514 = ['X                   X']
+d515 = ['XX                 XX']
+d516 = ['XXXX             XXXX']
+d517 = ['XXXXXX         XXXXXX']
+d518 = ['XXXXXXXXXXXXXXXXXXXXX']
+d519 = ['XXXXXXXXXXXXXXXXXXXXX']
+
+d600 = ['XXXXXXXXXXXXXXXXXXXXX']
+d601 = ['XXXXXXXXXXXXXXXXXXXXX']
+d602 = ['XXXXXXXXX        XXXX']
+d603 = ['XXXXXXXX        XXXXX']
+d604 = ['XXXXXXX        XXXXXX']
+d605 = ['XXXXXX        XXXXXXX']
+d606 = ['XXXXX        XXXXXXXX']
+d607 = ['XXXX        XXXXXXXXX']
+d608 = ['XXX        XXXXXXXXXX']
+d609 = ['XX              XXXXX']
+d610 = ['X                 XXX']
+d611 = ['X                  XX']
+d612 = ['X       XXXXX       X']
+d613 = ['X       XXXXX       X']
+d614 = ['X                   X']
+d615 = ['XX                 XX']
+d616 = ['XXXX             XXXX']
+d617 = ['XXXXXX         XXXXXX']
+d618 = ['XXXXXXXXXXXXXXXXXXXXX']
+d619 = ['XXXXXXXXXXXXXXXXXXXXX']
+
+d700 = ['XXXXXXXXXXXXXXXXXXXXXX']
+d701 = ['XXXXXXXXXXXXXXXXXXXXXX']
+d702 = ['X                    X']
+d703 = ['X                    X']
+d704 = ['X                    X']
+d705 = ['X                    X']
+d706 = ['XXXXXXXXXXXX        XX']
+d707 = ['XXXXXXXXXXX        XXX']
+d708 = ['XXXXXXXXXX        XXXX']
+d709 = ['XXXXXXXXX        XXXXX']
+d710 = ['XXXXXXXX        XXXXXX']
+d711 = ['XXXXXXX        XXXXXXX']
+d712 = ['XXXXXX        XXXXXXXX']
+d713 = ['XXXXX        XXXXXXXXX']
+d714 = ['XXXX        XXXXXXXXXX']
+d715 = ['XXX        XXXXXXXXXXX']
+d716 = ['XX        XXXXXXXXXXXX']
+d717 = ['X        XXXXXXXXXXXXX']
+d718 = ['XXXXXXXXXXXXXXXXXXXXXX']
+d719 = ['XXXXXXXXXXXXXXXXXXXXXX']
+
+d800 = ['XXXXXXXXXXXXXXXXXXXXX']
+d801 = ['XXXXXXXXXXXXXXXXXXXXX']
+d802 = ['XXXXXX         XXXXXX']
+d803 = ['XXXX             XXXX']
+d804 = ['XX                 XX']
+d805 = ['X                   X']
+d806 = ['X       XXXXX       X']
+d807 = ['X       XXXXX       X']
+d808 = ['XX                 XX']
+d809 = ['XXX               XXX']
+d810 = ['XX                 XX']
+d811 = ['X       XXXXX       X']
+d812 = ['X       XXXXX       X']
+d813 = ['X       XXXXX       X']
+d814 = ['X                   X']
+d815 = ['XX                 XX']
+d816 = ['XXXX             XXXX']
+d817 = ['XXXXXX         XXXXXX']
+d818 = ['XXXXXXXXXXXXXXXXXXXXX']
+d819 = ['XXXXXXXXXXXXXXXXXXXXX']
+
+d900 = ['XXXXXXXXXXXXXXXXXXXXX']
+d901 = ['XXXXXXXXXXXXXXXXXXXXX']
+d902 = ['XXXXXX         XXXXXX']
+d903 = ['XXXX             XXXX']
+d904 = ['XX                 XX']
+d905 = ['X                   X']
+d906 = ['X       XXXXX       X']
+d907 = ['X       XXXXX       X']
+d908 = ['XX                  X']
+d909 = ['XXX                 X']
+d910 = ['XXXXX              XX']
+d911 = ['XXXXXXXXXX        XXX']
+d912 = ['XXXXXXXXX        XXXX']
+d913 = ['XXXXXXXX        XXXXX']
+d914 = ['XXXXXXX        XXXXXX']
+d915 = ['XXXXXX        XXXXXXX']
+d916 = ['XXXXX        XXXXXXXX']
+d917 = ['XXXX        XXXXXXXXX']
+d918 = ['XXXXXXXXXXXXXXXXXXXXX']
+d919 = ['XXXXXXXXXXXXXXXXXXXXX']
+
+
+my_dict = {
+  'space': [[10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10], [10]],
+  'space00': 'XXXXXXXXXX',
+  'space01': 'XXXXXXXXXX',
+  'space02': 'XXXXXXXXXX',
+  'space03': 'XXXXXXXXXX',
+  'space04': 'XXXXXXXXXX',
+  'space05': 'XXXXXXXXXX',
+  'space06': 'XXXXXXXXXX',
+  'space07': 'XXXXXXXXXX',
+  'space08': 'XXXXXXXXXX',
+  'space09': 'XXXXXXXXXX',
+  'space10': 'XXXXXXXXXX',
+  'space11': 'XXXXXXXXXX',
+  'space12': 'XXXXXXXXXX',
+  'space13': 'XXXXXXXXXX',
+  'space14': 'XXXXXXXXXX',
+  'space15': 'XXXXXXXXXX',
+  'space16': 'XXXXXXXXXX',
+  'space17': 'XXXXXXXXXX',
+  'space18': 'XXXXXXXXXX',
+  'space19': 'XXXXXXXXXX',
+  'a00': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'a01': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'a02': 'XXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXX',
+  'a03': 'XXXXXXXXXXXXXXX     XXXXXXXXXXXXXXX',
+  'a04': 'XXXXXXXXXXXXXX       XXXXXXXXXXXXXX',
+  'a05': 'XXXXXXXXXXXXX         XXXXXXXXXXXXX',
+  'a06': 'XXXXXXXXXXXX           XXXXXXXXXXXX',
+  'a07': 'XXXXXXXXXXX             XXXXXXXXXXX',
+  'a08': 'XXXXXXXXXX       X       XXXXXXXXXX',
+  'a09': 'XXXXXXXXX       XXX       XXXXXXXXX',
+  'a10': 'XXXXXXXX       XXXXX       XXXXXXXX',
+  'a11': 'XXXXXXX                     XXXXXXX',
+  'a12': 'XXXXXX                       XXXXXX',
+  'a13': 'XXXXX                         XXXXX',
+  'a14': 'XXXX       XXXXXXXXXXXXX       XXXX',
+  'a15': 'XXX       XXXXXXXXXXXXXXX       XXX',
+  'a16': 'XX       XXXXXXXXXXXXXXXXX       XX',
+  'a17': 'X       XXXXXXXXXXXXXXXXXXX       X',
+  'a18': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'a19': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'b00': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'b01': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'b02': 'X                 XXXX',
+  'b03': 'X                  XXX',
+  'b04': 'X                   XX',
+  'b05': 'X        XXXXX       X',
+  'b06': 'XXX      XXXXX       X',
+  'b07': 'XXX      XXXXX       X',
+  'b08': 'XXX                 XX',
+  'b09': 'XXX                XXX',
+  'b10': 'XXX                 XX',
+  'b11': 'XXX      XXXXX       X',
+  'b12': 'XXX      XXXXX       X',
+  'b13': 'XXX      XXXXX       X',
+  'b14': 'X                    X',
+  'b15': 'X                   XX',
+  'b16': 'X                  XXX',
+  'b17': 'X                 XXXX',
+  'b18': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'b19': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'c00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'c01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'c02': 'XXXXXXXXX             X',
+  'c03': 'XXXXXX                X',
+  'c04': 'XXXX                  X',
+  'c05': 'XXX                   X',
+  'c06': 'XX       XXXXXXX      X',
+  'c07': 'X       XXXXXXXXXXXXXXX',
+  'c08': 'X       XXXXXXXXXXXXXXX',
+  'c09': 'X       XXXXXXXXXXXXXXX',
+  'c10': 'X       XXXXXXXXXXXXXXX',
+  'c11': 'X       XXXXXXXXXXXXXXX',
+  'c12': 'X       XXXXXXXXXXXXXXX',
+  'c13': 'XX       XXXXXXX      X',
+  'c14': 'XXX                   X',
+  'c15': 'XXXX                  X',
+  'c16': 'XXXXXX                X',
+  'c17': 'XXXXXXXXX             X',
+  'c18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'c19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'd00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'd01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'd02': 'X             XXXXXXXXX',
+  'd03': 'X                XXXXXX',
+  'd04': 'X                  XXXX',
+  'd05': 'X                   XXX',
+  'd06': 'XXX       XXXX       XX',
+  'd07': 'XXX       XXXXX       X',
+  'd08': 'XXX       XXXXX       X',
+  'd09': 'XXX       XXXXX       X',
+  'd10': 'XXX       XXXXX       X',
+  'd11': 'XXX       XXXXX       X',
+  'd12': 'XXX       XXXXX       X',
+  'd13': 'XXX       XXXX       XX',
+  'd14': 'X                   XXX',
+  'd15': 'X                  XXXX',
+  'd16': 'X                XXXXXX',
+  'd17': 'X             XXXXXXXXX',
+  'd18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'd19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'e00': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'e01': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'e02': 'X                      X',
+  'e03': 'X                      X',
+  'e04': 'X                      X',
+  'e05': 'X                      X',
+  'e06': 'XXX       XXXXXXX      X',
+  'e07': 'XXX       XXXXXXXXXXXXXX',
+  'e08': 'XXX                 XXXX',
+  'e09': 'XXX                 XXXX',
+  'e10': 'XXX                 XXXX',
+  'e11': 'XXX                 XXXX',
+  'e12': 'XXX       XXXXXXXXXXXXXX',
+  'e13': 'XXX       XXXXXXX      X',
+  'e14': 'X                      X',
+  'e15': 'X                      X',
+  'e16': 'X                      X',
+  'e17': 'X                      X',
+  'e18': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'e19': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'f00': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'f01': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'f02': 'X                      X',
+  'f03': 'X                      X',
+  'f04': 'X                      X',
+  'f05': 'X                      X',
+  'f06': 'XXX       XXXXXXX      X',
+  'f07': 'XXX       XXXXXXXXXXXXXX',
+  'f08': 'XXX                 XXXX',
+  'f09': 'XXX                 XXXX',
+  'f10': 'XXX                 XXXX',
+  'f11': 'XXX                 XXXX',
+  'f12': 'XXX       XXXXXXXXXXXXXX',
+  'f13': 'XXX       XXXXXXXXXXXXXX',
+  'f14': 'X           XXXXXXXXXXXX',
+  'f15': 'X           XXXXXXXXXXXX',
+  'f16': 'X           XXXXXXXXXXXX',
+  'f17': 'X           XXXXXXXXXXXX',
+  'f18': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'f19': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'g00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'g01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'g02': 'XXXXXXXXX             X',
+  'g03': 'XXXXXX                X',
+  'g04': 'XXXX                  X',
+  'g05': 'XXX                   X',
+  'g06': 'XX       XXXXXXX      X',
+  'g07': 'X       XXXXXXXXXXXXXXX',
+  'g08': 'X       XXXXXXXXXXXXXXX',
+  'g09': 'X       XXXX          X',
+  'g10': 'X       XXXX          X',
+  'g11': 'X       XXXX          X',
+  'g12': 'X       XXXXXXXX      X',
+  'g13': 'XX       XXXXXXX      X',
+  'g14': 'XXX                   X',
+  'g15': 'XXXX                  X',
+  'g16': 'XXXXXX                X',
+  'g17': 'XXXXXXXXX      XXX    X',
+  'g18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'g19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'h00': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  'h01': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  'h02': 'X         XXXXX         X',
+  'h03': 'X         XXXXX         X',
+  'h04': 'X         XXXXX         X',
+  'h05': 'X         XXXXX         X',
+  'h06': 'XXX       XXXXX       XXX',
+  'h07': 'XXX       XXXXX       XXX',
+  'h08': 'XXX                   XXX',
+  'h09': 'XXX                   XXX',
+  'h10': 'XXX                   XXX',
+  'h11': 'XXX                   XXX',
+  'h12': 'XXX       XXXXX       XXX',
+  'h13': 'XXX       XXXXX       XXX',
+  'h14': 'X         XXXXX         X',
+  'h15': 'X         XXXXX         X',
+  'h16': 'X         XXXXX         X',
+  'h17': 'X         XXXXX         X',
+  'h18': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  'h19': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  'i00': 'XXXXXXXXXXXX',
+  'i01': 'XXXXXXXXXXXX',
+  'i02': 'X          X',
+  'i03': 'X          X',
+  'i04': 'X          X',
+  'i05': 'X          X',
+  'i06': 'XXX      XXX',
+  'i07': 'XXX      XXX',
+  'i08': 'XXX      XXX',
+  'i09': 'XXX      XXX',
+  'i10': 'XXX      XXX',
+  'i11': 'XXX      XXX',
+  'i12': 'XXX      XXX',
+  'i13': 'XXX      XXX',
+  'i14': 'X          X',
+  'i15': 'X          X',
+  'i16': 'X          X',
+  'i17': 'X          X',
+  'i18': 'XXXXXXXXXXXX',
+  'i19': 'XXXXXXXXXXXX',
+  'j00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'j01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'j02': 'XXXXXXXXXXX           X',
+  'j03': 'XXXXXXXXXXX           X',
+  'j04': 'XXXXXXXXXXX           X',
+  'j05': 'XXXXXXXXXXX           X',
+  'j06': 'XXXXXXXXXXXXX       XXX',
+  'j07': 'XXXXXXXXXXXXX       XXX',
+  'j08': 'XXXXXXXXXXXXX       XXX',
+  'j09': 'XXXXXXXXXXXXX       XXX',
+  'j10': 'XXXXXXXXXXXXX       XXX',
+  'j11': 'X       XXXXX       XXX',
+  'j12': 'X       XXXXX       XXX',
+  'j13': 'X        XXX        XXX',
+  'j14': 'X                   XXX',
+  'j15': 'XX                 XXXX',
+  'j16': 'XXXX             XXXXXX',
+  'j17': 'XXXXXX         XXXXXXXX',
+  'j18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'j19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'k00': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'k01': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'k02': 'X         XXXX       X',
+  'k03': 'X         XXXX       X',
+  'k04': 'X         XXXX       X',
+  'k05': 'X         XXX        X',
+  'k06': 'X         XX         X',
+  'k07': 'XXX       X       XXXX',
+  'k08': 'XXX              XXXXX',
+  'k09': 'XXX             XXXXXX',
+  'k10': 'XXX             XXXXXX',
+  'k11': 'XXX              XXXXX',
+  'k12': 'XXX       X       XXXX',
+  'k13': 'X         XX         X',
+  'k14': 'X         XXX        X',
+  'k15': 'X         XXXX       X',
+  'k16': 'X         XXXX       X',
+  'k17': 'X         XXXX       X',
+  'k18': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'k19': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'l00': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'l01': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'l02': 'X           XXXXXXXXXXXX',
+  'l03': 'X           XXXXXXXXXXXX',
+  'l04': 'X           XXXXXXXXXXXX',
+  'l05': 'X           XXXXXXXXXXXX',
+  'l06': 'XXX       XXXXXXXXXXXXXX',
+  'l07': 'XXX       XXXXXXXXXXXXXX',
+  'l08': 'XXX       XXXXXXXXXXXXXX',
+  'l09': 'XXX       XXXXXXXXXXXXXX',
+  'l10': 'XXX       XXXXXXXXXXXXXX',
+  'l11': 'XXX       XXXXXXXXXXXXXX',
+  'l12': 'XXX       XXXXXXXXXXXXXX',
+  'l13': 'XXX       XXXXXXX      X',
+  'l14': 'X                      X',
+  'l15': 'X                      X',
+  'l16': 'X                      X',
+  'l17': 'X                      X',
+  'l18': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'l19': 'XXXXXXXXXXXXXXXXXXXXXXXX',
+  'm00': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'm01': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'm02': 'X        XXXXXXXXXXXXXXX        X',
+  'm03': 'X         XXXXXXXXXXXXX         X',
+  'm04': 'X          XXXXXXXXXXX          X',
+  'm05': 'X           XXXXXXXXX           X',
+  'm06': 'X            XXXXXXX            X',
+  'm07': 'X             XXXXX             X',
+  'm08': 'X              XXX              X',
+  'm09': 'X        X      X      X        X',
+  'm10': 'X        XX           XX        X',
+  'm11': 'X        XXX         XXX        X',
+  'm12': 'X        XXXX       XXXX        X',
+  'm13': 'X        XXXXX     XXXXX        X',
+  'm14': 'X        XXXXXXXXXXXXXXX        X',
+  'm15': 'X        XXXXXXXXXXXXXXX        X',
+  'm16': 'X        XXXXXXXXXXXXXXX        X',
+  'm17': 'X        XXXXXXXXXXXXXXX        X',
+  'm18': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'm19': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'n00': 'XXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'n01': 'XXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'n02': 'X        XXXXXXXX        X',
+  'n03': 'X         XXXXXXX        X',
+  'n04': 'X          XXXXXX        X',
+  'n05': 'X           XXXXX        X',
+  'n06': 'X            XXXX        X',
+  'n07': 'X             XXX        X',
+  'n08': 'X              XX        X',
+  'n09': 'X        X      X        X',
+  'n10': 'X        XX              X',
+  'n11': 'X        XXX             X',
+  'n12': 'X        XXXX            X',
+  'n13': 'X        XXXXX           X',
+  'n14': 'X        XXXXXX          X',
+  'n15': 'X        XXXXXXX         X',
+  'n16': 'X        XXXXXXXX        X',
+  'n17': 'X        XXXXXXXXX       X',
+  'n18': 'XXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'n19': 'XXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'o00': 'XXXXXXXXXXXXXXXXXXXXX',
+  'o01': 'XXXXXXXXXXXXXXXXXXXXX',
+  'o02': 'XXXXXX         XXXXXX',
+  'o03': 'XXXX             XXXX',
+  'o04': 'XX                 XX',
+  'o05': 'X                   X',
+  'o06': 'X        XXX        X',
+  'o07': 'X       XXXXX       X',
+  'o08': 'X       XXXXX       X',
+  'o09': 'X       XXXXX       X',
+  'o10': 'X       XXXXX       X',
+  'o11': 'X       XXXXX       X',
+  'o12': 'X       XXXXX       X',
+  'o13': 'X        XXX        X',
+  'o14': 'X                   X',
+  'o15': 'XX                 XX',
+  'o16': 'XXXX             XXXX',
+  'o17': 'XXXXXX         XXXXXX',
+  'o18': 'XXXXXXXXXXXXXXXXXXXXX',
+  'o19': 'XXXXXXXXXXXXXXXXXXXXX',
+  'p00': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'p01': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'p02': 'X                 XXXX',
+  'p03': 'X                  XXX',
+  'p04': 'X                   XX',
+  'p05': 'X        XXXXX       X',
+  'p06': 'XXX      XXXXX       X',
+  'p07': 'XXX      XXXXX       X',
+  'p08': 'XXX                 XX',
+  'p09': 'XXX                XXX',
+  'p10': 'XXX              XXXXX',
+  'p11': 'XXX      XXXXXXXXXXXXX',
+  'p12': 'XXX      XXXXXXXXXXXXX',
+  'p13': 'XXX      XXXXXXXXXXXXX',
+  'p14': 'X          XXXXXXXXXXX',
+  'p15': 'X          XXXXXXXXXXX',
+  'p16': 'X          XXXXXXXXXXX',
+  'p17': 'X          XXXXXXXXXXX',
+  'p18': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'p19': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'q00': 'XXXXXXXXXXXXXXXXXXXXX',
+  'q01': 'XXXXXXXXXXXXXXXXXXXXX',
+  'q02': 'XXXXXX         XXXXXX',
+  'q03': 'XXXX             XXXX',
+  'q04': 'XX                 XX',
+  'q05': 'X                   X',
+  'q06': 'X        XXX        X',
+  'q07': 'X       XXXXX       X',
+  'q08': 'X       XXXXX       X',
+  'q09': 'X       XXXXX       X',
+  'q10': 'X       XXXXX       X',
+  'q11': 'X       XXXXX       X',
+  'q12': 'X       XX  X       X',
+  'q13': 'X        XX         X',
+  'q14': 'X                   X',
+  'q15': 'XX                 XX',
+  'q16': 'XXXX              XXX',
+  'q17': 'XXXXXX         X  XXX',
+  'q18': 'XXXXXXXXXXXXXXXXX  XX',
+  'q19': 'XXXXXXXXXXXXXXXXXXXXX',
+  'r00': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'r01': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'r02': 'X                 XXXX',
+  'r03': 'X                  XXX',
+  'r04': 'X                   XX',
+  'r05': 'X        XXXXX       X',
+  'r06': 'XXX      XXXXX       X',
+  'r07': 'XXX      XXXXX       X',
+  'r08': 'XXX                 XX',
+  'r09': 'XXX                XXX',
+  'r10': 'XXX                 XX',
+  'r11': 'XXX      XXXXX       X',
+  'r12': 'XXX      XXXXX       X',
+  'r13': 'XXX      XXXXX       X',
+  'r14': 'X        XXXXX       X',
+  'r15': 'X        XXXXX       X',
+  'r16': 'X        XXXXX       X',
+  'r17': 'X        XXXXX       X',
+  'r18': 'XXXXXXXXXXXXXXXXXXXXXX',
+  'r19': 'XXXXXXXXXXXXXXXXXXXXXX',
+  's00': 'XXXXXXXXXXXXXXXXXXXXX',
+  's01': 'XXXXXXXXXXXXXXXXXXXXX',
+  's02': 'XXXX               XX',
+  's03': 'XX                  X',
+  's04': 'X                   X',
+  's05': 'X       XXXXX       X',
+  's06': 'X       XXXXXXXXXXXXX',
+  's07': 'X       XXXXXXXXXXXXX',
+  's08': 'XX         XXXXXXXXXX',
+  's09': 'XXX             XXXXX',
+  's10': 'XXXXX             XXX',
+  's11': 'XXXXXXXX           XX',
+  's12': 'XXXXXXXXXXXXX       X',
+  's13': 'XXXXXXXXXXXXX       X',
+  's14': 'X       XXXXX       X',
+  's15': 'X                   X',
+  's16': 'X                  XX',
+  's17': 'XX               XXXX',
+  's18': 'XXXXXXXXXXXXXXXXXXXXX',
+  's19': 'XXXXXXXXXXXXXXXXXXXXX',
+  't00': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  't01': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  't02': 'X                       X',
+  't03': 'X                       X',
+  't04': 'X                       X',
+  't05': 'X                       X',
+  't06': 'X      XX       XX      X',
+  't07': 'XXXXXXXXX       XXXXXXXXX',
+  't08': 'XXXXXXXXX       XXXXXXXXX',
+  't09': 'XXXXXXXXX       XXXXXXXXX',
+  't10': 'XXXXXXXXX       XXXXXXXXX',
+  't11': 'XXXXXXXXX       XXXXXXXXX',
+  't12': 'XXXXXXXXX       XXXXXXXXX',
+  't13': 'XXXXXXXXX       XXXXXXXXX',
+  't14': 'XXXXXXX           XXXXXXX',
+  't15': 'XXXXXXX           XXXXXXX',
+  't16': 'XXXXXXX           XXXXXXX',
+  't17': 'XXXXXXX           XXXXXXX',
+  't18': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  't19': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+  'u00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'u01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'u02': 'X        XXXXX        X',
+  'u03': 'X        XXXXX        X',
+  'u04': 'X        XXXXX        X',
+  'u05': 'X        XXXXX        X',
+  'u06': 'XX       XXXXX       XX',
+  'u07': 'XX       XXXXX       XX',
+  'u08': 'XX       XXXXX       XX',
+  'u09': 'XX       XXXXX       XX',
+  'u10': 'XX       XXXXX       XX',
+  'u11': 'XX       XXXXX       XX',
+  'u12': 'XX       XXXXX       XX',
+  'u13': 'XX        XXX        XX',
+  'u14': 'XX                   XX',
+  'u15': 'XXX                 XXX',
+  'u16': 'XXXXX             XXXXX',
+  'u17': 'XXXXXXX         XXXXXXX',
+  'u18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'u19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'v00': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'v01': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'v02': 'X        XXXXXXXXXXX        X',
+  'v03': 'X        XXXXXXXXXXX        X',
+  'v04': 'X        XXXXXXXXXXX        X',
+  'v05': 'X        XXXXXXXXXXX        X',
+  'v06': 'XX       XXXXXXXXXXX       XX',
+  'v07': 'XXX       XXXXXXXXX       XXX',
+  'v08': 'XXXX       XXXXXXX       XXXX',
+  'v09': 'XXXXX       XXXXX       XXXXX',
+  'v10': 'XXXXXX       XXX       XXXXXX',
+  'v11': 'XXXXXXX       X       XXXXXXX',
+  'v12': 'XXXXXXXX             XXXXXXXX',
+  'v13': 'XXXXXXXXX           XXXXXXXXX',
+  'v14': 'XXXXXXXXXX         XXXXXXXXXX',
+  'v15': 'XXXXXXXXXXX       XXXXXXXXXXX',
+  'v16': 'XXXXXXXXXXXX     XXXXXXXXXXXX',
+  'v17': 'XXXXXXXXXXXXX   XXXXXXXXXXXXX',
+  'v18': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'v19': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'w00': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'w01': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'w02': 'X        XXXXXXXXXXXXXXXXXXXXXXXXXXX        X',
+  'w03': 'X        XXXXXXXXXXXXXXXXXXXXXXXXXXX        X',
+  'w04': 'X        XXXXXXXXXXXXXXXXXXXXXXXXXXX        X',
+  'w05': 'X        XXXXXXXXXXXXXXXXXXXXXXXXXXX        X',
+  'w06': 'XX       XXXXXXXXXXX     XXXXXXXXXXX       XX',
+  'w07': 'XXX       XXXXXXXXX       XXXXXXXXX       XXX',
+  'w08': 'XXXX       XXXXXXX         XXXXXXX       XXXX',
+  'w09': 'XXXXX       XXXXX           XXXXX       XXXXX',
+  'w10': 'XXXXXX       XXX             XXX       XXXXXX',
+  'w11': 'XXXXXXX       X       X       X       XXXXXXX',
+  'w12': 'XXXXXXXX             XXX             XXXXXXXX',
+  'w13': 'XXXXXXXXX           XXXXX           XXXXXXXXX',
+  'w14': 'XXXXXXXXXX         XXXXXXX         XXXXXXXXXX',
+  'w15': 'XXXXXXXXXXX       XXXXXXXXX       XXXXXXXXXXX',
+  'w16': 'XXXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXXX',
+  'w17': 'XXXXXXXXXXXXX   XXXXXXXXXXXXX   XXXXXXXXXXXXX',
+  'w18': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'w19': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  'x00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'x01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'x02': 'X       XXXXXXX       X',
+  'x03': 'X       XXXXXXX       X',
+  'x04': 'X       XXXXXXX       X',
+  'x05': 'X        XXXXX        X',
+  'x06': 'X         XXX         X',
+  'x07': 'XXXX       X       XXXX',
+  'x08': 'XXXXX             XXXXX',
+  'x09': 'XXXXXX           XXXXXX',
+  'x10': 'XXXXXX           XXXXXX',
+  'x11': 'XXXXX             XXXXX',
+  'x12': 'XXXX       X       XXXX',
+  'x13': 'X         XXX         X',
+  'x14': 'X        XXXXX        X',
+  'x15': 'X       XXXXXXX       X',
+  'x16': 'X       XXXXXXX       X',
+  'x17': 'X       XXXXXXX       X',
+  'x18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'x19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'y00': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'y01': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'y02': 'X       XXXXXXX       X',
+  'y03': 'X       XXXXXXX       X',
+  'y04': 'X       XXXXXXX       X',
+  'y05': 'X        XXXXX        X',
+  'y06': 'X         XXX         X',
+  'y07': 'XXXX       X       XXXX',
+  'y08': 'XXXXX             XXXXX',
+  'y09': 'XXXXXX           XXXXXX',
+  'y10': 'XXXXXXX         XXXXXXX',
+  'y11': 'XXXXXXXX       XXXXXXXX',
+  'y12': 'XXXXXXXX       XXXXXXXX',
+  'y13': 'XXXXXXXX       XXXXXXXX',
+  'y14': 'XXXXXXXX       XXXXXXXX',
+  'y15': 'XXXXX             XXXXX',
+  'y16': 'XXXXX             XXXXX',
+  'y17': 'XXXXX             XXXXX',
+  'y18': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'y19': 'XXXXXXXXXXXXXXXXXXXXXXX',
+  'z00': 'XXXXXXXXXXXXXXXXXXXXX',
+  'z01': 'XXXXXXXXXXXXXXXXXXXXX',
+  'z02': 'X                   X',
+  'z03': 'X                   X',
+  'z04': 'X                   X',
+  'z05': 'X                  XX',
+  'z06': 'X     XXXXX       XXX',
+  'z07': 'XXXXXXXXX       XXXXX',
+  'z08': 'XXXXXXXX       XXXXXX',
+  'z09': 'XXXXXXX       XXXXXXX',
+  'z10': 'XXXXXX       XXXXXXXX',
+  'z11': 'XXXXX       XXXXXXXXX',
+  'z12': 'XXXX       XXXXXXXXXX',
+  'z13': 'X         XXXXX     X',
+  'z14': 'X                   X',
+  'z15': 'X                   X',
+  'z16': 'X                   X',
+  'z17': 'X                   X',
+  'z18': 'XXXXXXXXXXXXXXXXXXXXX',
+  'z19': 'XXXXXXXXXXXXXXXXXXXXX',
+}
